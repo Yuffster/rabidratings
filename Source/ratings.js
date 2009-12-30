@@ -1,18 +1,18 @@
-/**
- * RabidRatings - Simple and Pretty Ratings for Everyone
- * JavaScript functionality requires MooTools version 1.2 <http://www.mootools.net>.
- * 
- * Full package available at <http://widgets.rabidlabs.net/ratings>.
- *
- * NOTE: The included JavaScript WILL ONLY WORK WITH MOOTOOLS.  It will not work if any other JavaScript
- * framework is present on the page.
- *
- * Current MooTools version: 1.2
- *
- * @author Michelle Steigerwalt <http://www.msteigerwalt.com>
- * @copyright 2007, 2008 Michelle Steigerwalt
- * @license LGPL 2.1 <http://creativecommons.org/licenses/LGPL/2.1/>
- */
+/*
+---
+description: RabidRatings - Simple and Pretty Ratings for Everyone. JavaScript functionality requires MooTools version 1.2 <http://www.mootools.net>.
+
+license: GPL
+
+copright: 2008, 2009, 2010 Michelle Steigerwalt <http://msteigerwalt.com>
+
+authors:
+- Michelle Steigerwalt 
+
+provides: [RabidRatings]
+
+...
+*/
 
 var RabidRatings = new Class({
 
